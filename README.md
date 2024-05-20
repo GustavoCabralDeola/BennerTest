@@ -2,7 +2,7 @@
 Este projeto implementa uma estrutura de dados para gerenciar a conectividade entre um conjunto de elementos, utilizando a técnica de União-Busca (Union-Find). A estrutura permite criar conexões entre elementos e verificar se dois elementos estão direta ou indiretamente conectados.
 <h1>Como executar</h1>
 <p>
-1. Clone o repositório com  git clone https://github.com/ManoGuto/BennerTest.git <br>
+1. Clone o repositório com  git clone https://github.com/GustavoCabralDeola/BennerTest.git <br>
 2. Execute o código <br>
 3. Informe os número de elementos <br>
 4. Informe as conexões nesta formatação: 1,2 e pressione enter. Após finalizar de digitar as conexões, deixe uma linha em branco <br>
