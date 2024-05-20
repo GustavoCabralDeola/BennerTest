@@ -29,7 +29,7 @@ O construtor Network inicializa os vetores raiz e classificacao para representar
 Find: Utiliza compressão de caminho para otimizar a busca da raiz de um elemento. <br>
 Union: Utiliza união por classificação para unir dois conjuntos.
 <h3>Métodos</h3>
-Connect: Conecta dois elementos diretamente, ajustando índices baseados em 1 para índices baseados em 0.
+Connect: Conecta dois elementos diretamente, ajustando índices baseados em 1 para índices baseados em 0. <br>
 Query: Verifica se dois elementos estão conectados, direta ou indiretamente, ajustando os índices baseados em 1 para índices baseados em 0.
 <br>
 <br>
